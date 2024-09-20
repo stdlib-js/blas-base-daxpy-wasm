@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`849e5da`](https://github.com/stdlib-js/stdlib/commit/849e5da8d61d41532d64e70b02a7fbbce7dd0778) - **docs:** add TypeScript declarations _(by Athan Reines)_
 -   [`26aa649`](https://github.com/stdlib-js/stdlib/commit/26aa64946b2966d36338cd580d336d2be3483285) - **docs:** add REPL help _(by Athan Reines)_
 -   [`6e5b8a1`](https://github.com/stdlib-js/stdlib/commit/6e5b8a1747929bc984c994b62faefb1fe96ff5f0) - **build:** add support for generating a base64-encoded Wasm module string _(by Athan Reines)_
 -   [`07a6dc1`](https://github.com/stdlib-js/stdlib/commit/07a6dc162582bc72e783e3e14e741d08b4a59170) - **test:** update messages _(by Athan Reines)_
