@@ -58,6 +58,7 @@
     "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
+    "@stdlib/array-float64": "^0.2.2",
     "@stdlib/array-one-to": "^0.2.2",
     "@stdlib/array-ones": "^0.2.1",
     "@stdlib/array-zeros": "^0.2.2",
