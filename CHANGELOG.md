@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-20)
+## Unreleased (2024-09-22)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`177f16c`](https://github.com/stdlib-js/stdlib/commit/177f16cd80b9072714e7b4e976487e5e6dd19761) - **chore:** update package meta data [(#2933)](https://github.com/stdlib-js/stdlib/pull/2933) _(by stdlib-bot, Athan Reines)_
 -   [`b8cc3db`](https://github.com/stdlib-js/stdlib/commit/b8cc3db63853dc4e9b4b949abc36bac20c3bf305) - **test:** use `Module` constructor directly _(by Athan Reines)_
 -   [`a510e37`](https://github.com/stdlib-js/stdlib/commit/a510e375b6e6f608c7763997ff4abad7d8941f9d) - **test:** add module `ndarray` method tests _(by Athan Reines)_
 -   [`f74e989`](https://github.com/stdlib-js/stdlib/commit/f74e9894ad130417d69b9763cf9a9a012ad9c251) - **test:** add tests for the `main` method _(by Athan Reines)_
