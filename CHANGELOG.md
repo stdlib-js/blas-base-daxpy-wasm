@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-25)
+## Unreleased (2024-09-29)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`1cd5988`](https://github.com/stdlib-js/stdlib/commit/1cd5988f17e8bd1e3282540d82e05536178423a4) - **docs:** fix copy _(by Athan Reines)_
 -   [`3095c9a`](https://github.com/stdlib-js/stdlib/commit/3095c9a511ea9d5291e2af2344b239a6101ab31f) - **docs:** add example using little-endian arrays _(by Athan Reines)_
 -   [`177f16c`](https://github.com/stdlib-js/stdlib/commit/177f16cd80b9072714e7b4e976487e5e6dd19761) - **chore:** update package meta data [(#2933)](https://github.com/stdlib-js/stdlib/pull/2933) _(by stdlib-bot, Athan Reines)_
 -   [`b8cc3db`](https://github.com/stdlib-js/stdlib/commit/b8cc3db63853dc4e9b4b949abc36bac20c3bf305) - **test:** use `Module` constructor directly _(by Athan Reines)_
