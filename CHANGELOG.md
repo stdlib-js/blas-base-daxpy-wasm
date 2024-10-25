@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`91e37be`](https://github.com/stdlib-js/stdlib/commit/91e37be0fc89c072ee006802d5a568eab3003c9a) - **docs:** fix missing license headers _(by Athan Reines)_
 -   [`1530f80`](https://github.com/stdlib-js/stdlib/commit/1530f80d4d9f298361cccc3463fee8315fbb83c3) - **build:** update compiler flags and export resolution _(by Athan Reines)_
 -   [`ef474af`](https://github.com/stdlib-js/stdlib/commit/ef474af3b2f1eafffbbbc9e4bcb72541f72970ef) - **docs:** fix overwriting of variables _(by Athan Reines)_
 -   [`1cd5988`](https://github.com/stdlib-js/stdlib/commit/1cd5988f17e8bd1e3282540d82e05536178423a4) - **docs:** fix copy _(by Athan Reines)_
