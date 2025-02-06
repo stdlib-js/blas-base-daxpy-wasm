@@ -38,19 +38,19 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/base/daxpy-wasm"
-%% click B href "https://github.com/stdlib-js/blas-base-daxpy-wasm/tree/main"
-%% click C href "https://github.com/stdlib-js/blas-base-daxpy-wasm/tree/production"
-%% click D href "https://github.com/stdlib-js/blas-base-daxpy-wasm/tree/esm"
-%% click E href "https://github.com/stdlib-js/blas-base-daxpy-wasm/tree/deno"
-%% click F href "https://github.com/stdlib-js/blas-base-daxpy-wasm/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/base/wasm/daxpy"
+%% click B href "https://github.com/stdlib-js/blas-base-wasm-daxpy/tree/main"
+%% click C href "https://github.com/stdlib-js/blas-base-wasm-daxpy/tree/production"
+%% click D href "https://github.com/stdlib-js/blas-base-wasm-daxpy/tree/esm"
+%% click E href "https://github.com/stdlib-js/blas-base-wasm-daxpy/tree/deno"
+%% click F href "https://github.com/stdlib-js/blas-base-wasm-daxpy/tree/umd"
 ```
 
-[stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/base/daxpy-wasm
-[production-url]: https://github.com/stdlib-js/blas-base-daxpy-wasm/tree/production
-[deno-url]: https://github.com/stdlib-js/blas-base-daxpy-wasm/tree/deno
-[deno-readme]: https://github.com/stdlib-js/blas-base-daxpy-wasm/blob/deno/README.md
-[umd-url]: https://github.com/stdlib-js/blas-base-daxpy-wasm/tree/umd
-[umd-readme]: https://github.com/stdlib-js/blas-base-daxpy-wasm/blob/umd/README.md
-[esm-url]: https://github.com/stdlib-js/blas-base-daxpy-wasm/tree/esm
-[esm-readme]: https://github.com/stdlib-js/blas-base-daxpy-wasm/blob/esm/README.md
+[stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/base/wasm/daxpy
+[production-url]: https://github.com/stdlib-js/blas-base-wasm-daxpy/tree/production
+[deno-url]: https://github.com/stdlib-js/blas-base-wasm-daxpy/tree/deno
+[deno-readme]: https://github.com/stdlib-js/blas-base-wasm-daxpy/blob/deno/README.md
+[umd-url]: https://github.com/stdlib-js/blas-base-wasm-daxpy/tree/umd
+[umd-readme]: https://github.com/stdlib-js/blas-base-wasm-daxpy/blob/umd/README.md
+[esm-url]: https://github.com/stdlib-js/blas-base-wasm-daxpy/tree/esm
+[esm-readme]: https://github.com/stdlib-js/blas-base-wasm-daxpy/blob/esm/README.md

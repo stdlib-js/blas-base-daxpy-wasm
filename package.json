@@ -1,5 +1,5 @@
 {
-  "name": "@stdlib/blas-base-daxpy-wasm",
+  "name": "@stdlib/blas-base-wasm-daxpy",
   "version": "0.0.0",
   "description": "Multiply a vector `x` by a constant and add the result to `y`.",
   "license": "Apache-2.0",
@@ -36,7 +36,7 @@
   "homepage": "https://stdlib.io",
   "repository": {
     "type": "git",
-    "url": "git://github.com/stdlib-js/blas-base-daxpy-wasm.git"
+    "url": "git://github.com/stdlib-js/blas-base-wasm-daxpy.git"
   },
   "bugs": {
     "url": "https://github.com/stdlib-js/stdlib/issues"
